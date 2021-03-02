@@ -1,0 +1,20 @@
+- read PNGs into BufferedImages DONE
+- read BufferedImages into graphics through which to draw DONE
+- draw graphics DONE
+- begin implementing movement in accordance with new class structure DONE
+- implement a proper map upon update
+
+Colours
+~~~~~~~
+
+0 = Background black
+1 = Wall green
+2 = Menu wall blue
+3 = Menu body blue
+
+Maps
+~~~~
+
+0 = Start screen
+1 = Map 1
+2 = Map 2

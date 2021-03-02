@@ -1,0 +1,2 @@
+# tales-from-cyberspace
+A game designed for CyberFirst, developed in the Summer of 2019. This single-threaded, bullet-hell type game/learning experience looks to educate users on various computer attacks and how they affect systems in an interactive, fun setting that a child or young student might find attractive. Written entirely from scratch in Java (utilising GUI and basic graphics modules native to Java) for a Windows 10 environment, this project may present issues if deployed in a Unix environment. 
